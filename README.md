@@ -1,4 +1,5 @@
-# Smart-Home-Stimulation-System
+##summary
+#Smart-Home-Stimulation-System
 My project contains a smart home stimulation with conecepts of oop with features such as 
 ~turning on/off thermostats and light 
 ~ setting the brightness of lights 
