@@ -2,9 +2,12 @@
 
 Final project for the Building AI course
 
-##Summary
+## Summary
 
-Smart-Energy Optimizer is an AI-powered system that analyzes energy usage patterns in smart homes and recommends real-time optimizations to reduce electricity consumption and costs. It integrates with IoT sensors to suggest personalized energy-saving actions.
+The Smart Home Simulation System is a C++ project that enables users to control virtual smart devices such as lights and thermostats. It demonstrates Object-Oriented Programming concepts and simulates realistic home automation features through a command-line interface.
+
+Building AI course project
+
 
 ## Background
 
