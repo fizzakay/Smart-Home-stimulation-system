@@ -1,4 +1,5 @@
-##summary
+
+
 #Smart-Home-Stimulation-System
 My project contains a smart home stimulation with conecepts of oop with features such as 
 ~turning on/off thermostats and light 
@@ -6,6 +7,7 @@ My project contains a smart home stimulation with conecepts of oop with features
 ~ setting temperature of thermostat
 # SHF Smart Home Simulation System
 SHF Smart Home Simulation System
+##summary
 # Introduction
 Welcome to the SHF Smart Home Simulation System, an interactive program that simulates a smart home environment. This system allows users to manage and control smart devices such as lights and thermostats in a virtual home. The system showcases Object-Oriented Programming (OOP) principles, including inheritance, polymorphism, abstraction, and encapsulation, to provide a modular and scalable solution.
 # Installation
