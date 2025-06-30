@@ -2,7 +2,7 @@
 
 Final project for the Building AI course
 
-## Summary
+##Summary
 
 Smart-Energy Optimizer is an AI-powered system that analyzes energy usage patterns in smart homes and recommends real-time optimizations to reduce electricity consumption and costs. It integrates with IoT sensors to suggest personalized energy-saving actions.
 
